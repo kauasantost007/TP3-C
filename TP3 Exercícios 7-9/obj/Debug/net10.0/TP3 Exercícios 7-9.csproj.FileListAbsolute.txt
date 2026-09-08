@@ -1,0 +1,14 @@
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\bin\Debug\net10.0\TP3 Exercícios 7-9.exe
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\bin\Debug\net10.0\TP3 Exercícios 7-9.deps.json
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\bin\Debug\net10.0\TP3 Exercícios 7-9.runtimeconfig.json
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\bin\Debug\net10.0\TP3 Exercícios 7-9.dll
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\bin\Debug\net10.0\TP3 Exercícios 7-9.pdb
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.AssemblyInfoInputs.cache
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.AssemblyInfo.cs
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.csproj.CoreCompileInputs.cache
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.dll
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\refint\TP3 Exercícios 7-9.dll
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.pdb
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\TP3 Exercícios 7-9.genruntimeconfig.cache
+C:\Users\Kauã\source\repos\TP33 Exercícios 7-9\TP33 Exercícios 7-9\obj\Debug\net10.0\ref\TP3 Exercícios 7-9.dll
