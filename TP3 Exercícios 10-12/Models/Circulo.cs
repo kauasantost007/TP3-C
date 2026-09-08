@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace TP3_Exercícios_10a12.Models
-/// Exercício 11
 {
     public class Circulo
     {
