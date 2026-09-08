@@ -43,5 +43,5 @@ namespace TP3_Exercícios_2a6
 }
 
 /// O construtor facilita porque cria o objeto já completo, em uma única linha, obrigando que todos os dados essenciais
-/// sejam informados no momento da criação. Com vários Set... separados, seriam necessárias várias linhas,existe o risco
+/// sejam informados no momento da criação. Com vários Set separados, seriam necessárias várias linhas,existe o risco
 /// de esquecer de preencher algum atributo, e o objeto fica temporariamente incompleto entre uma chamada e outra, problemas que o construtor elimina.
